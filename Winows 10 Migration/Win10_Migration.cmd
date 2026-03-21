@@ -1,6 +1,6 @@
 @echo off
 setlocal
-title Windows 10 Migration Suite
+title Windows 10-to-11 Migration Suite
 
 :: PROJECT: Windows 11 Upgrade Engine
 :: AUTHOR: Rick
